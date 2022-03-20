@@ -1,6 +1,6 @@
 [Home](README.md) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
 
-![Star Gazers Logo](images/logo_bigstar.svg =250x)
+![Star Gazers Logo](images/logo_bigstar.svg){ width=50% }
 
 Founded in 2012, Big Star Collectibles is the premier online retailer of trading card and other collectibles. If your hobby is collecting, we've got the stock you want.
 
